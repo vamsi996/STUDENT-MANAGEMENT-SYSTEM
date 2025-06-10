@@ -54,3 +54,25 @@ The UI is cleanly designed with: Labels and entry boxes for input, Buttons for a
 
 **Login Page:**
 
+![Image](https://github.com/user-attachments/assets/f841bead-df74-4233-a6c4-a36f2ee80306)
+
+**Add User:**
+
+![Image](https://github.com/user-attachments/assets/2bb65387-0b8c-46f6-b747-396fbc265369)
+
+![Image](https://github.com/user-attachments/assets/4320be0c-7890-4749-97a0-52467fc4b328)
+
+**Search By RollNumber:**
+
+![Image](https://github.com/user-attachments/assets/cc8e4aaa-1d93-4b80-8040-215ea3583955)
+
+**Show Student Data:**
+
+![Image](https://github.com/user-attachments/assets/56fcf1b9-00dc-4765-b166-f062be2e61ac)
+
+**Delete Student:**
+
+![Image](https://github.com/user-attachments/assets/52a0f6ec-c126-4cc4-aa30-600f97b0d819)
+
+![Image](https://github.com/user-attachments/assets/e1ff4092-2cdd-435d-ab77-2501d01a4820)
+
